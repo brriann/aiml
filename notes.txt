@@ -1,2 +1,13 @@
 opencog
 tensorflow
+pytorch
+https://pytorch.org/
+
+MS Azure AI
+https://azure.microsoft.com/en-us/overview/ai-platform/
+https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/ai-overview
+https://www.microsoft.com/en-us/ai/ai-school
+
+Azure ML
+https://azure.microsoft.com/en-us/services/machine-learning/#features
+https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml
