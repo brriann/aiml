@@ -1,0 +1,26 @@
+https://jupyter.org/
+CS109 :: Data Science https://cs109.github.io/2015/pages/videos.html
+https://towardsdatascience.com/loading-well-log-data-from-dlis-using-python-9d48df9a23e2
+https://melaniemitchell.me/PapersContent/AIMagazine2020.pdf
+https://docs.microsoft.com/en-us/azure/machine-learning/
+Openai sumo
+https://www.kaggle.com/
+Googledrive::work::nlpai
+SimRank
+Andrew Ng ML online
+Reagent.ai
+word embedding
+graph embedding
+https://www.microsoft.com/en-us/ai/ai-school
+https://towardsdatascience.com/types-of-machine-learning-algorithms-you-should-know-953a08248861
+https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+https://openai.com/blog/competitive-self-play/
+https://www.coursera.org/learn/machine-learning
+word2vec
+https://www.deeplearning.ai/
+embedded ML: https://www.youtube.com/watch?v=iTj0lcVSIVU
+TensorFlow
+
+
+
+
