@@ -20,7 +20,7 @@ word2vec
 https://www.deeplearning.ai/
 embedded ML: https://www.youtube.com/watch?v=iTj0lcVSIVU
 TensorFlow
-
+gpt3
 
 
 
