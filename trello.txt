@@ -21,6 +21,60 @@ https://www.deeplearning.ai/
 embedded ML: https://www.youtube.com/watch?v=iTj0lcVSIVU
 TensorFlow
 gpt3
+https://pub.towardsai.net/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1
+https://www.sciencedirect.com/book/9780128219294/machine-learning-guide-for-oil-and-gas-using-python#book-description
+https://opencog.org/
+devtalk.nividia.com
+developer.nvidia.com
+deepcode.ai
+https://en.wikipedia.org/wiki/Folding@home
+https://en.wikipedia.org/wiki/Genome@home
+Python Data Science Oil and Gas video https://www.youtube.com/watch?v=uwQ3To6b_rI
+
+Is this a Markov Chain?
+
+void processInputFromUser (input) {
+return find_response (input);
+}
+Map dict_of_responses <StringList,String >;
+
+String find_response (input) {
+
+String response;
+StringList words = input.split (“ “);
+int best_sequence_count = 0;
+int current_sequence_count = 0;
+foreach (word_set in dict_of_responses) {
+int previous_index = 0;
+current_sequence_count = 0;
+foreach (word in words) {
+if (word_set.indexOf(word) > previous_index) {
+current_sequence_count += 1;
+previous_index = word_set.indexOf (word);
+}
+if (current_sequence_count > best_sequence_count) {
+best_sequence_count = current_sequence_count;
+response = dict_of_responses [word_set];
+}
+if (!word_set.contains (word)) {
+current_sequence_count -= 2;
+} else {
+if (word_set.indexOf (word) < previous_index) {
+current_sequence_count -= 1;
+}
+}
+}
+}
+return response;
+}
+
+// impenetation of dictionary
+
+dict_of_responses[StringList("how","are","you","doing","today?")] = "Today im doing fine";
+
+dict_of_responses[StringList("who","are","you?")] = "im a bot.";
+
+
 
 
 
