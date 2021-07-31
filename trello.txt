@@ -31,6 +31,15 @@ https://en.wikipedia.org/wiki/Folding@home
 https://en.wikipedia.org/wiki/Genome@home
 Python Data Science Oil and Gas video https://www.youtube.com/watch?v=uwQ3To6b_rI
 
+QBOT
+https://github.com/LoisLab/qbot/
+https://medium.com/@michael_87060/build-a-self-driving-q-bot-6aa67ba60769
+https://en.wikipedia.org/wiki/Q-learning
+https://github.com/jvon-challenges/guessing-games
+https://github.com/jvon-challenges/qbot
+https://www.youtube.com/watch?v=-1W7-Q0RIaM&feature=youtu.be
+ML QBOT docs (3) (Drive)
+
 Is this a Markov Chain?
 
 void processInputFromUser (input) {
