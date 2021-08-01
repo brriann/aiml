@@ -31,6 +31,15 @@ https://en.wikipedia.org/wiki/Folding@home
 https://en.wikipedia.org/wiki/Genome@home
 Python Data Science Oil and Gas video https://www.youtube.com/watch?v=uwQ3To6b_rI
 
+Supervised learning
+Regression (continuous)
+Classification (discrete)
+Infinite dimensional spaces
+Unsupervised learning
+Clustering
+Independent component analysis 
+Reinforcement learning 
+
 Is this a Markov Chain?
 
 void processInputFromUser (input) {
