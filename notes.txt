@@ -11,3 +11,7 @@ https://www.microsoft.com/en-us/ai/ai-school
 Azure ML
 https://azure.microsoft.com/en-us/services/machine-learning/#features
 https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml
+
+
+https://www.coursera.org/learn/machine-learning
+
