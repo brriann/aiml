@@ -5,7 +5,13 @@ https://www.tensorflow.org/
 https://pytorch.org/
 https://keras.io/
 https://scikit-learn.org/stable/index.html
+https://www.ray.io/
 
+# Orchestration
+
+https://airflow.apache.org/
+https://www.kubeflow.org/
+https://mlflow.org/
 
 # Learning roadmap
 
@@ -18,4 +24,9 @@ Reinforcement Learning
 Neural Networks
 Transformers
 Agentic Systems
+
+# Federated Learning
+
+https://www.tensorflow.org/federated
+https://flower.ai/
 
