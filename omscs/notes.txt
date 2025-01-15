@@ -43,5 +43,10 @@ Image recognition - Computer Vision
 Next Word Prediction - Natural Language Processing
 Q-Learning - Reinforcement Learning
 
+# Resources
+
+https://www.wandb.courses/pages/w-b-courses
+https://wandb.ai/site
+
 
 
