@@ -37,6 +37,11 @@ https://www.nist.gov/itl/products-and-services/emnist-dataset
 https://www.kaggle.com/datasets/crawford/emnist
 https://yann.lecun.com/exdb/mnist/
 
+# Tasks
+
+Image recognition - Computer Vision
+Next Word Prediction - Natural Language Processing
+Q-Learning - Reinforcement Learning
 
 
 
