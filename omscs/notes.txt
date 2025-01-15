@@ -1,0 +1,21 @@
+
+# Tools
+
+https://www.tensorflow.org/
+https://pytorch.org/
+https://keras.io/
+https://scikit-learn.org/stable/index.html
+
+
+# Learning roadmap
+
+Supervised Learning
+Unsupervised Learning
+Reinforcement Learning
+
+# Mechanisms
+
+Neural Networks
+Transformers
+Agentic Systems
+
