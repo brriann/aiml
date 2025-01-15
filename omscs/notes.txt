@@ -30,3 +30,13 @@ Agentic Systems
 https://www.tensorflow.org/federated
 https://flower.ai/
 
+# Datasets
+
+https://en.wikipedia.org/wiki/MNIST_database
+https://www.nist.gov/itl/products-and-services/emnist-dataset
+https://www.kaggle.com/datasets/crawford/emnist
+https://yann.lecun.com/exdb/mnist/
+
+
+
+
