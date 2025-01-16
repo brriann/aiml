@@ -4,3 +4,4 @@ https://pytorch.org/tutorials/index.html
 
 https://pytorch.org/tutorials/recipes/recipes/defining_a_neural_network.html
 
+https://github.com/pytorch/examples/blob/main/mnist/main.py
