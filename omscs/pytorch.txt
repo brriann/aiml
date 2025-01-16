@@ -1,0 +1,6 @@
+https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
+https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+https://pytorch.org/tutorials/index.html
+
+https://pytorch.org/tutorials/recipes/recipes/defining_a_neural_network.html
+
