@@ -1,0 +1,7 @@
+https://www.tensorflow.org/datasets/keras_example
+https://www.kaggle.com/code/amyjang/tensorflow-mnist-cnn-tutorial
+
+https://www.tensorflow.org/learn
+https://www.tensorflow.org/resources/learn-ml
+https://www.tensorflow.org/guide
+https://www.tensorflow.org/tutorials
