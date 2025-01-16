@@ -29,6 +29,8 @@ Agentic Systems
 
 https://www.tensorflow.org/federated
 https://flower.ai/
+https://flower.ai/blog/2023-01-12-fl-starter-pack-fedavg-mnist-cnn/
+https://flower.ai/blog/2023-02-16-fl-starter-pack-fedprox-mnist-cnn/
 
 # Datasets
 
@@ -47,6 +49,18 @@ Q-Learning - Reinforcement Learning
 
 https://www.wandb.courses/pages/w-b-courses
 https://wandb.ai/site
+
+# Papers
+
+https://arxiv.org/abs/1602.05629
+https://arxiv.org/abs/2104.11375
+https://openreview.net/pdf?id=HJxNAnVtDS
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9730797/
+https://arxiv.org/abs/1912.04977
+https://www.sciencedirect.com/science/article/pii/S0167739X23003333
+https://arxiv.org/abs/1812.06127
+https://arxiv.org/abs/2007.07481
+
 
 
 
