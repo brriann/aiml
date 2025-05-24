@@ -6,7 +6,11 @@ Manage ML project with Kubeflow and MLflow
 
 Resources:
 
+https://www.kaggle.com/code/geekysaint/solving-mnist-using-pytorch
 https://www.kaggle.com/datasets/hojjatk/mnist-dataset/data
+https://www.kaggle.com/datasets/avnishnish/mnist-
+
+
 https://github.com/pytorch/examples/blob/main/mnist/main.py
 
 https://www.kubeflow.org/docs/started/
